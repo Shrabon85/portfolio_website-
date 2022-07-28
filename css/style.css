@@ -197,7 +197,9 @@ html,body{
 .section3 .box6,
 .section3 .box7,
 .section3 .box8,
-.section3 .box9
+.section3 .box9,
+.section3 .box10
+
 
 
 {
@@ -235,7 +237,8 @@ html,body{
 .section3 .box6,
 .section3 .box7,
 .section3 .box8,
-.section3 .box9{
+.section3 .box9,
+.section3 .box10{
     margin-top: 20px;
 }
 .section3 .box1 img,
@@ -246,7 +249,9 @@ html,body{
 .section3 .box6 img,
 .section3 .box7 img,
 .section3 .box8 img,
-.section3 .box9 img
+.section3 .box9 img,
+.section3 .box10 img
+
 
 {
     width: 200px;
