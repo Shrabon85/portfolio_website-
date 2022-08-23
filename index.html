@@ -77,6 +77,9 @@
 </head>
 
 <body>
+    <div id="preloader">
+        <div class="custom-loader"></div>
+    </div>
 
 
 
@@ -302,6 +305,12 @@
     ===========================
     -->
 
+    <script>
+        var loader = document.getElementById("preloader");
+        window.addEventListener("load",function(){
+            loader.style.display="none";
+        })
+    </script>
 </body>
 
 </html>
