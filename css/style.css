@@ -37,7 +37,6 @@ html,body{
     background-color: white;
     position: fixed;
     z-index: 1000;
-    opacity: 0.5;
 }
 .custom-loader {
     --d:22px;
